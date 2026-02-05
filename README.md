@@ -235,7 +235,6 @@ This tool **automates the entire process** while maintaining:
 ## 📧 Contact
 
 **Tywin Kalandyk**  
-*AI/ML Engineer | GRC Automation Specialist*
 
 [LinkedIn](https://www.linkedin.com/in/tywin-kalandyk/) •  [Email](Tywinkalandyk1@gmail.com)
 
