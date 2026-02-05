@@ -236,7 +236,7 @@ This tool **automates the entire process** while maintaining:
 
 **Tywin Kalandyk**  
 
-[LinkedIn](https://www.linkedin.com/in/tywin-kalandyk/) •  [Email](Tywinkalandyk1@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/tywin-kalandyk/) 
 
 ---
 
