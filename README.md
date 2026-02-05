@@ -237,7 +237,7 @@ This tool **automates the entire process** while maintaining:
 **Tywin Kalandyk**  
 *AI/ML Engineer | GRC Automation Specialist*
 
-[LinkedIn](https://linkedin.com/in/yourprofile) • [Portfolio](https://yourportfolio.com) • [Email](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/tywin-kalandyk/) •  [Email](Tywinkalandyk1@gmail.com)
 
 ---
 
@@ -247,26 +247,13 @@ This tool **automates the entire process** while maintaining:
 
 *Automating compliance so teams can focus on what matters*
 
-**[View More Projects](https://yourportfolio.com)** | **[Download Resume](link-to-resume)**
+**[View More Projects](https://github.com/tkalandyk)** | 
 
 </div>
 
 ---
 
-## 📝 Technical Documentation
 
-For developers and technical reviewers:
-- **Setup Guide:** See `QUICKSTART.md` for installation instructions
-- **API Documentation:** FastAPI auto-generated docs at `/docs`
-- **Testing:** Run `pytest tests/` for full test suite
-- **Architecture:** See `docs/` folder for technical diagrams
 
----
 
-## ⭐ Star This Project
 
-If you find this useful, please star the repository!
-
----
-
-*This project demonstrates production-ready AI/ML engineering with real business impact.*
